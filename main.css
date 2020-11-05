@@ -1,5 +1,5 @@
-.link{
-    color: black;
+.nav-link{
+    color: black!important;
     
 }
 
@@ -18,6 +18,11 @@
 }
 
 body{
+    background-image: url(un0.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -32,4 +37,11 @@ a:hover{
     text-decoration: none;
     color: black;
 
+}
+
+form input{
+    width: 300px;
+    text-decoration: none;
+    outline: none;
+    padding: 10px;
 }

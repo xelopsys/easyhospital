@@ -23,7 +23,8 @@ body{
 }
 
 .ker{
-    background-color: rgb(255, 245, 245)!important;
+    background-color: rgb(232, 253, 250)!important;
+    box-shadow: 0px 0px 50px 0px rgb(115, 239, 250);
 }
 
 .lan{
@@ -39,7 +40,7 @@ body{
 .lann{
     height: 200px;
     width: 200px;
-    background-color: #FF5757;
+    background-color: #48d5f8;
     border-radius: 600px;
 }
 
@@ -49,7 +50,7 @@ body{
 
 div{
     background-color: white;
-    border: 1px solid black;
+
 }
 
 .easy{
